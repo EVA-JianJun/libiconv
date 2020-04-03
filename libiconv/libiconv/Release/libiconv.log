@@ -1,0 +1,19 @@
+﻿  iconv.c
+E:\code\project\libiconv\libiconv\libiconv\utf7.h(162,13): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\utf7.h(331,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\hz.h(39,13): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\hz.h(51,17): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\hz.h(57,17): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\hz.h(65,17): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\hz.h(80,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(47,28): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(91,32): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(142,28): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(258,22): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(418,22): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(422,19): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(503,24): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\loop_unicode.h(519,22): warning C4018: “<=”: 有符号/无符号不匹配
+E:\code\project\libiconv\libiconv\libiconv\iconv.c(427,23): warning C4090: “函数”: 不同的“const”限定符
+  localcharset.c
+  libiconv.vcxproj -> E:\code\project\libiconv\libiconv\Release\libiconv.lib
